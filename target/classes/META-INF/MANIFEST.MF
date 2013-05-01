@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Built-By: Jimmy
+Build-Jdk: 1.6.0_01
+Bundle-Version: 0.0.11.SNAPSHOT
+Tool: Bnd-1.15.0
+Bundle-Name: sampleapp
+Bnd-LastModified: 1367403172122
+Bundle-Activator: org.cytoscape.sample.internal.CyActivator
+Created-By: Apache Maven Bundle Plugin
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: sampleapp
+Import-Package: javax.swing,org.cytoscape.application.swing;version="[
+ 3.1,4)",org.cytoscape.model;version="[3.1,4)",org.cytoscape.service.u
+ til;version="[3.1,4)",org.osgi.framework;version="[1.5,2)"
+
